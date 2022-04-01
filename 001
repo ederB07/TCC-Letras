@@ -2,6 +2,12 @@
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
 #EXTINF:-1,BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1,TV SOL 
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
+
+#EXTINF:-1,TV Sol² (Patos-PB)
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+
 #EXTINF:-1,TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w2120451330.m3u8
 

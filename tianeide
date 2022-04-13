@@ -4,6 +4,8 @@
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
 #EXTINF:-1,BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1,RECORD 
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748
 #EXTINF:-1,VIVA
 http://srv.vitrizamper.com:80/6798643406andre/32c3xc32x233/429
 #EXTINF:-1,SBT HD
@@ -20,8 +22,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,REDE BRASIL TV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravar SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1,Gravar SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Gravação RJ HD 1

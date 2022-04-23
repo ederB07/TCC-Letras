@@ -10,7 +10,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.portaltvsol.com/skins/avancado/template/tvsol/img/logo.png",TV SOL 
-http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
+https://sinalpublico.com/player3/ch.php?canal=record
 
 #EXTINF:-1 tvg-logo="https://www.portaltvsol.com/skins/avancado/template/tvsol/img/logo.png", TV Sol² (Patos-PB)
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8

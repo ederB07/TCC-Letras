@@ -30,6 +30,12 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIO
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Rede TV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,PREMIERE CLUBES
+http://efv.me:80/1702725pau/486669/914
+#EXTINF:-1,PREMIERE 2
+http://efv.me:80/1702725pau/486669/839
+
 #EXTINF:-1,ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/287994016270/287994016270/16693
 #EXTINF:-1,DISCOVERY CHANNEL HD

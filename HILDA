@@ -4,8 +4,12 @@
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
 #EXTINF:-1,BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="http://a5.vc/eJG"  ,Band News FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10103.ts
 #EXTINF:-1,RECORD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV FHD" tvg-logo="http://a5.vc/NuR"  ,RedeTV FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10104.ts
 #EXTINF:-1,VIVA
 http://actxs.biz:80/henriquesb/323334.hen/114524
 #EXTINF:-1,SBT HD
@@ -20,17 +24,52 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_slen
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
 #EXTINF:-1,Banda SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,REDE BRASIL TV
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravar SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravação RJ HD 1
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravar RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Rede TV RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD"  ,Globo News FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10102.ts
 
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="http://a5.vc/FVo"  ,SBT SP FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="CANAIS MANUTENÇAO",Star Channel FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="CANAIS MANUTENÇAO",Nickelodeon FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="http://a5.vc/Ts9" group-title="CANAIS MANUTENÇAO",Cartoon Network FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10- Cabo Frio" tvg-logo="http://a5.vc/77e"  ,Canal 10- Cabo Frio
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://a5.vc/Oj9"  ,Discovery Channel FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="http://a5.vc/BsL"  ,Telecine Action FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="http://a5.vc/DZP"  ,Telecine Cult FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="http://a5.vc/TLE"  ,Telecine Fun FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="http://a5.vc/mOL"  ,Telecine Pipoca FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="http://a5.vc/N8x"  ,Telecine Premium FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="http://a5.vc/rBW"  ,Telecine Touch FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="http://a5.vc/Flm"  ,Combate FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10117.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD" tvg-logo="http://a5.vc/8lJ"  ,ESPN 1 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10118.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://a5.vc/KCw"  ,ESPN 2 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10119.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://a5.vc/8lJ"  ,ESPN 3 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10120.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://a5.vc/55i"  ,ESPN 4 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png"  ,Conmebol TV 1 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png"  ,Conmebol TV 2 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png"  ,Conmebol TV 3 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png"  ,Conmebol TV 4 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10125.ts
 #EXTINF:-1,PREMIERE CLUBES
 http://actxs.biz:80/henriquesb/323334.hen/114268
 #EXTINF:-1,PREMIERE 2

@@ -5,7 +5,7 @@ http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1682935651_fb0c05
 #EXTINF:-1,RECORD
 http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1682936218_3013c30e4886c5e034b128175862cb5b6edd6a55
 #EXTINF:-1,BAND
-http://boxtv.uniredes.com.br:8880/live/16031974/16031974/88
+http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1682936218_6cc206ab9bd593072f574f4764b9bfb7488fe1d2
 #EXTINF:-1,SBT HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16749
 #EXTINF:-1,PREMIERE 
@@ -52,6 +52,8 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16700
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31279
 #EXTINF:-1,Combate HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16703
+#EXTINF:-1,UFC Fight Pass HD
+http://fadder.eletrinho.shop:2095/live/afazenda1/chunks.m3u8?token=1682937828_8ef033029b618a51bb02bd4ce18d5e0bd515a6c2
 #EXTINF:-1,HBO 2 HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31460
 #EXTINF:-1,HBO HD

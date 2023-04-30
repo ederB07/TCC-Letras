@@ -2,18 +2,14 @@
 
 #EXTINF:-1,GLOBO HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
-#EXTINF:-1,BAND
-http://boxtv.uniredes.com.br:8880/live/16031974/16031974/88
 #EXTINF:-1,RECORD
 http://boxtv.uniredes.com.br:8880/live/16031974/16031974/57
-#EXTINF:-1,VIVA
-http://186.237.99.202:8000/play/Viva/index.m3u8
+#EXTINF:-1,BAND
+http://boxtv.uniredes.com.br:8880/live/16031974/16031974/88
 #EXTINF:-1,SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 #EXTINF:-1,PREMIERE CLUBES
-http://206.1.95.2:8004/play/a022
-#EXTINF:-1,PREMIERE 2
-http://actxs.biz:80/henriquesb/323334.hen/114248
+http://fadder.eletrinho.shop:2095/live/premiereclubes/chunks.m3u8?token=1682938110_89a1d40d2244565e8a5d8dcf2476e8d6235b4124
 #EXTINF:-1,SBT² HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?IMDSFULL
 #EXTINF:-1, SBT HD¹

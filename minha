@@ -1,8 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1682935651_fb0c0589b8fb0f0a134d27de3943dfbc088c9701
-#EXTINF:-1,RECORD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
+#EXTINF:-1,BAND
+http://esrv.cc/live/jader4423/Mo8x8/17#EXTINF:-1,RECORD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748
 #EXTINF:-1,BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1682936218_6cc206ab9bd593072f574f4764b9bfb7488fe1d2

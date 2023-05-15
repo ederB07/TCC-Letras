@@ -9,9 +9,9 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748
 #EXTINF:-1,VIVA
 http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1683136584_4bc97fb070a72617f72057eb70ab8b32a7d92663#EXTINF:-1,SBT HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16749
-#EXTINF:-1,Amazon Prime tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
-http://p23.miami/live/100388/10002000/293701.ts
-#EXTINF:-1,Amazon Prime ALT  tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",Amazon Prime
+http://p23.miami/live/100388/10002000/293701
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",Amazon Prime ALT  
 http://p23.miami/live/00408900/963247873/294742
 
 #EXTINF:-1,PREMIERE 
@@ -74,3 +74,7 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31583
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16725
 #EXTINF:-1,Telecine Pipoca HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16757
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp",TV Diário do Sertão
+https://stream-04.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYRiiRzUt1Rnd9dZGotjm_mUc4NGRVIhliUeiezV2fnMB)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
+https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8

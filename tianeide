@@ -5,37 +5,79 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
 #EXTINF:-1,BAND
 http://esrv.cc/live/jader4423/Mo8x8/17
 #EXTINF:-1,RECORD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748⁶
-#EXTINF:-1,Viva HD
-http://axr.life:80/fabiofv200/new12345/1263423
-#EXTINF:-1,Viva FHD
-http://axr.life:80/fabiofv200/new12345/1263424
-#EXTINF:-1,SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1,PREMIERE CLUBES
-http://206.1.95.2:8004/play/a022
-#EXTINF:-1,PREMIERE 2
-http://actxs.biz:80/henriquesb/323334.hen/114248
-#EXTINF:-1,SBT² HD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?IMDSFULL
-#EXTINF:-1, SBT HD¹
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?IMDSFULL
-#EXTINF:-1,SBT PE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-#EXTINF:-1,BAND SP HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
-#EXTINF:-1,Banda SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,REDE BRASIL TV
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravar SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravação RJ HD 1
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gravar RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Rede TV RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748
+#EXTINF:-1,VIVA
+http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1683136584_4bc97fb070a72617f72057eb70ab8b32a7d92663#EXTINF:-1,SBT HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16749
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",Amazon Prime
+http://p23.miami/live/100388/10002000/293701
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",Amazon Prime ALT  
+http://p23.miami/live/00408900/963247873/294742
+
+#EXTINF:-1,PREMIERE 
+http://fadder.eletrinho.shop:2095/live/premiereclubes/chunks.m3u8?token=1682938110_89a1d40d2244565e8a5d8dcf2476e8d6235b4124
+#EXTINF:-1,ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16693
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16705
+#EXTINF:-1,COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16704
+#EXTINF:-1,ESPN HD
+http://fadder.eletrinho.shop:2095/live/espn/chunks.m3u8?token=1682935558_5f7e208d485bb3e562e80ca5beff6a8519255902
+#EXTINF:-1,CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16702
+#EXTINF:-1,Discovery Science HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16708
+#EXTINF:-1,SporTV HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16753
+#EXTINF:-1,Discovery World HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16712
+#EXTINF:-1,Space HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16750
+#EXTINF:-1,Investigação Discovery HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16736
+#EXTINF:-1,HBO Family HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31462
+#EXTINF:-1,Paramount Channel HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16746
+#EXTINF:-1,TNT HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16760
+#EXTINF:-1,Discovery Turbo HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16711
+#EXTINF:-1,TNT Series HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16761
+#EXTINF:-1,H2 HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16733
+#EXTINF:-1,AXN HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16695
+#EXTINF:-1,Globo HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
+#EXTINF:-1,Canal Sony HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16700
+#EXTINF:-1,MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31279
+#EXTINF:-1,Combate HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16703
+#EXTINF:-1,UFC Fight Pass HD
+http://fadder.eletrinho.shop:2095/live/afazenda1/chunks.m3u8?token=1682937828_8ef033029b618a51bb02bd4ce18d5e0bd515a6c2
+#EXTINF:-1,HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31460
+#EXTINF:-1,HBO HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31465
+#EXTINF:-1,Telecine Fun HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16756
+#EXTINF:-1,Telecine Premium HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16758
+#EXTINF:-1,TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31583
+#EXTINF:-1, Fox Sports HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16725
+#EXTINF:-1,Telecine Pipoca HD
+http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16757
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp",TV Diário do Sertão
+https://stream-04.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYRiiRzUt1Rnd9dZGotjm_mUc4NGRVIhliUeiezV2fnMB)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
+https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/287994016270/287994016270/16693
 #EXTINF:-1,DISCOVERY CHANNEL HD

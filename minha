@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16730
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1685205069_388c66e7e0e402a28c575f8718d58b8af3d49f5e
 #EXTINF:-1,BAND
 http://esrv.cc/live/jader4423/Mo8x8/17
 #EXTINF:-1,RECORD
@@ -17,9 +17,9 @@ http://p23.miami/live/00408900/963247873/294742
 #EXTINF:-1,PREMIERE 
 http://fadder.eletrinho.shop:2095/live/premiereclubes/chunks.m3u8?token=1682938110_89a1d40d2244565e8a5d8dcf2476e8d6235b4124
 #EXTINF:-1,ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16693
+http://fadder.eletrinho.shop:2095/live/animalplanet/chunks.m3u8?token=1685205163_ac11731c89ba3b728d6c98f2b0784432048972f0
 #EXTINF:-1,DISCOVERY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16705
+http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8?token=1685205163_7012f42dd28501371f1444450594c45a114e6b4b
 #EXTINF:-1,COMEDY CENTRAL HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16704
 #EXTINF:-1,ESPN HD
@@ -41,7 +41,7 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31462
 #EXTINF:-1,Paramount Channel HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16746
 #EXTINF:-1,TNT HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16760
+http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1685205269_2b7b67568017403550d3cf4f5cb283b714897be8
 #EXTINF:-1,Discovery Turbo HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16711
 #EXTINF:-1,TNT Series HD

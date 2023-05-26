@@ -3,25 +3,19 @@
 #EXTINF:-1,GLOBO HD
 http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1685205069_388c66e7e0e402a28c575f8718d58b8af3d49f5e
 #EXTINF:-1,BAND
-http://esrv.cc/live/jader4423/Mo8x8/17
+http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1685206878_acf0a1e8a815216497853c7a4ecbc7167ac1f918
 #EXTINF:-1,RECORD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16748
+http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1685206878_f278fd22c81e23ed75ba65d6343495e87ee0a8b5
 #EXTINF:-1,VIVA
-http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1683136584_4bc97fb070a72617f72057eb70ab8b32a7d92663#EXTINF:-1,SBT HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16749
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",Amazon Prime
-http://p23.miami/live/100388/10002000/293701
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",Amazon Prime ALT  
-http://p23.miami/live/00408900/963247873/294742
-
+http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1683136584_4bc97fb070a72617f72057eb70ab8b32a7d92663
+#EXTINF:-1,SBT HD
+http://fadder.eletrinho.shop:2095/live/afazenda9/chunks.m3u8?token=1685206878_de31a38b07d32036d42b777090ce2f1fa6110f1c
 #EXTINF:-1,PREMIERE 
 http://fadder.eletrinho.shop:2095/live/premiereclubes/chunks.m3u8?token=1682938110_89a1d40d2244565e8a5d8dcf2476e8d6235b4124
 #EXTINF:-1,ANIMAL PLANET HD
 http://fadder.eletrinho.shop:2095/live/animalplanet/chunks.m3u8?token=1685205163_ac11731c89ba3b728d6c98f2b0784432048972f0
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8?token=1685205163_7012f42dd28501371f1444450594c45a114e6b4b
-#EXTINF:-1,COMEDY CENTRAL HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16704
 #EXTINF:-1,ESPN HD
 http://fadder.eletrinho.shop:2095/live/espn/chunks.m3u8?token=1682935558_5f7e208d485bb3e562e80ca5beff6a8519255902
 #EXTINF:-1,CINEMAX HD
@@ -30,8 +24,6 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16702
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16708
 #EXTINF:-1,SporTV HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16753
-#EXTINF:-1,Discovery World HD
-http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16712
 #EXTINF:-1,Space HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16750
 #EXTINF:-1,Investigação Discovery HD
@@ -74,6 +66,8 @@ http://xcui.vitvabc.xyz:8880/287994016263/287994016263/31583
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16725
 #EXTINF:-1,Telecine Pipoca HD
 http://xcui.vitvabc.xyz:8880/287994016263/287994016263/16757
+#EXTINF:-1, STAR+
+https://m3u9.ml/a2/hls1/starplus1/__index.m3u8?mu3zAQc9HC3GbwJq=r6Zc9s8Ke5C3yTT5Q943mg&3U1G7qaTxrPbalZnEx=1685149984
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp",TV Diário do Sertão
 https://stream-04.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYRiiRzUt1Rnd9dZGotjm_mUc4NGRVIhliUeiezV2fnMB)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL

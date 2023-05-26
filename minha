@@ -40,7 +40,7 @@ http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1685208165_ea
 http://fadder.eletrinho.shop:2095/live/megapix/chunks.m3u8?token=1685207499_9d8ed5bfab1d31db8e44822a0f012eb714b38e6d
 #EXTINF:-1,Combate HD
 http://fadder.eletrinho.shop:2095/live/combate/chunks.m3u8?token=1682937828_77a30db753a1aa7fe8c4deb869a52ed5efd65822
-#EXTINF:-1,UFC Fight Pass HD
+#EXTINF:-1,Fight Pass 
 http://fadder.eletrinho.shop:2095/live/afazenda1/chunks.m3u8?token=1682937828_8ef033029b618a51bb02bd4ce18d5e0bd515a6c2
 #EXTINF:-1,HBO HD
 http://fadder.eletrinho.shop:2095/live/hbo/chunks.m3u8?token=1685207499_8211efa6548fd1e1ca58fd57a5ecd6eada6806b5

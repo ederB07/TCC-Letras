@@ -10,9 +10,11 @@ http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1685206878_f278f
 http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1683136584_4bc97fb070a72617f72057eb70ab8b32a7d92663
 #EXTINF:-1,SBT HD
 http://fadder.eletrinho.shop:2095/live/afazenda9/chunks.m3u8?token=1685206878_de31a38b07d32036d42b777090ce2f1fa6110f1c
+#EXTINF:-1 ,Band Sports HD
+http://fadder.eletrinho.shop:2095/live/cariocatv1/chunks.m3u8?token=1685207974_87628d625d26cd37eb9d4765d53202fff8c49db5
 #EXTINF:-1,PREMIERE 
 http://fadder.eletrinho.shop:2095/live/premiereclubes/chunks.m3u8?token=1682938110_89a1d40d2244565e8a5d8dcf2476e8d6235b4124
-#EXTINF:-1,PREMIERE 2
+#EXTINF:-1,PREMIERE 
 http://fadder.eletrinho.shop:2095/live/premiere2/chunks.m3u8?token=1685207974_306c2221c4ca2523446ea94c6c64306d60d543b9
 #EXTINF:-1,ANIMAL PLANET HD
 http://fadder.eletrinho.shop:2095/live/animalplanet/chunks.m3u8?token=1685205163_ac11731c89ba3b728d6c98f2b0784432048972f0
@@ -46,7 +48,5 @@ http://fadder.eletrinho.shop:2095/live/hbo/chunks.m3u8?token=1685207499_8211efa6
 http://fadder.eletrinho.shop:2095/live/hbo2/chunks.m3u8?token=1685207499_1a3d2b6998545ce0147d2106c74b697d747866fa
 #EXTINF:-1,FX HD
 http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1685207499_aaf380ff4ebada671d6af94b4c4dc40626aad74a
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp",TV Diário do Sertão
-http://fadder.eletrinho.shop:2095/live/cariocatv1/chunks.m3u8?token=1685207974_87628d625d26cd37eb9d4765d53202fff8c49db5
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8

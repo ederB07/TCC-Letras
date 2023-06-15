@@ -2,8 +2,6 @@
 
 #EXTINF:-1,GLOBO HD
 http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1685205069_388c66e7e0e402a28c575f8718d58b8af3d49f5e
-#EXTINF:-1,GLOBO RJ
-https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=a787c83bf19e75a6939e3c330f4787127a180421-ebadf8e6150f1cda3372445fd284c8a5-1686813815-1686810215
 #EXTINF:-1,BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1685206878_acf0a1e8a815216497853c7a4ecbc7167ac1f918
 #EXTINF:-1,RECORD
@@ -38,6 +36,7 @@ http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1685205269_2b7b6756
 http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
 #EXTINF:-1, Warner HD
 http://fadder.eletrinho.shop:2095/live/warnerchannel/chunks.m3u8?token=1686898150_9f8000c776a79a75fff27434ebd946b679853add
+#EXTINF:-1, TNT Series HD
 http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1685208165_ea98c626296758185c57ec12179a54687b5439e7
 #EXTINF:-1,MEGAPIX HD
 http://fadder.eletrinho.shop:2095/live/megapix/chunks.m3u8?token=1685207499_9d8ed5bfab1d31db8e44822a0f012eb714b38e6d

@@ -24,6 +24,8 @@ http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1685205269_2b7b6756
 http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
 #EXTINF:-1,Star
 https://server101.online/star/tracks-v1/mono.m3u8?remote=167.249.102.65&token=b0c6094d75264a17887802706fb0d089c81c3bb3-59a02e7728930dfa679308164ed204be-1686813324-1686809724
+#EXTINF:-1,Star 2
+https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/starchannel_5a5b0f9b_1139505a5d47da74133e6d368a2617a57c45a1fb/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTc2LjEyMy44LjE5MCI7aToxO3M6MTExOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE0LjAuMC4wIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2ODY4MTAxMzg7fQ%3D%3D
 #EXTINF:-1,TNT series HD
 http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1685208165_ea98c626296758185c57ec12179a54687b5439e7
 #EXTINF:-1,MEGAPIX HD

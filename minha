@@ -28,13 +28,11 @@ http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1685207499_aaf380ff4
 http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1685205269_2b7b67568017403550d3cf4f5cb283b714897be8
 #EXTINF:-1,Space HD
 http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
-#EXTINF:-1, Warner Bros
+#EXTINF:-1, Warner HD
 https://server101.online/warner/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=ea97a84a962c47a4eaba3b667577727900f0424e-9f933ac4cbf29b8c926a00075207d96b-1686813735-1686810135#EXTINF:-1,TNT series HD
 http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1685208165_ea98c626296758185c57ec12179a54687b5439e7
 #EXTINF:-1,MEGAPIX HD
 http://fadder.eletrinho.shop:2095/live/megapix/chunks.m3u8?token=1685207499_9d8ed5bfab1d31db8e44822a0f012eb714b38e6d
-
-
 #EXTINF:-1 ,Band Sports HD
 http://fadder.eletrinho.shop:2095/live/cariocatv1/chunks.m3u8?token=1685207974_87628d625d26cd37eb9d4765d53202fff8c49db5
 #EXTINF:-1 , ESPN HD
@@ -47,8 +45,7 @@ http://fadder.eletrinho.shop:2095/live/premiere2/chunks.m3u8?token=1685207974_30
 http://fadder.eletrinho.shop:2095/live/sportv/chunks.m3u8?token=1685207974_445a75f2374efa1642d5960496cffba2074b4961
 #EXTINF:-1,SporTV 2 HD
 http://fadder.eletrinho.shop:2095/live/sportv2/chunks.m3u8?token=1685207974_a4755488b85296e0d08d4ccbda5097ca7bb25438
-
 #EXTINF:-1,Combate HD
 http://fadder.eletrinho.shop:2095/live/combate/chunks.m3u8?token=1682937828_77a30db753a1aa7fe8c4deb869a52ed5efd65822
-#EXTINF:-1,Fight Pass 
+#EXTINF:-1, UFC
 http://fadder.eletrinho.shop:2095/live/afazenda1/chunks.m3u8?token=1682937828_8ef033029b618a51bb02bd4ce18d5e0bd515a6c2

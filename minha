@@ -22,6 +22,8 @@ http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1685207499_aaf380ff4
 http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1685205269_2b7b67568017403550d3cf4f5cb283b714897be8
 #EXTINF:-1,Space HD
 http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
+#EXTINF:-1,Star Channel
+https://server101.online/star/tracks-v1/mono.m3u8?remote=167.249.102.65&token=4b96b1f8cc95ab0adc4a34a1795580b215f57a93-ea3b0a69b5d925f6598f32d84baadf3b-1686816462-1686809262
 
 #EXTINF:-1,TNT series HD
 http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1685208165_ea98c626296758185c57ec12179a54687b5439e7

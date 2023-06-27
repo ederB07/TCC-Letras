@@ -3,7 +3,7 @@
 #EXTINF:-1,GLOBO HD
 https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=555c9d6827a4f3a665564fee9ee30591588a3018-dec6294ce63889a54ba71883481575f1-1687830741-1687823541
 #EXTINF:-1,BAND
-http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1685206878_acf0a1e8a815216497853c7a4ecbc7167ac1f918
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-f0ouXkgX19RZ8-aivBwAxBl30W3pZktX5QYTa2THrIJ)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1,RECORD
 http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1685206878_f278fd22c81e23ed75ba65d6343495e87ee0a8b5
 #EXTINF:-1,VIVA

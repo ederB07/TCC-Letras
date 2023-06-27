@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1685205069_388c66e7e0e402a28c575f8718d58b8af3d49f5e
+https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=555c9d6827a4f3a665564fee9ee30591588a3018-dec6294ce63889a54ba71883481575f1-1687830741-1687823541
 #EXTINF:-1,BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1685206878_acf0a1e8a815216497853c7a4ecbc7167ac1f918
 #EXTINF:-1,RECORD
 http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1685206878_f278fd22c81e23ed75ba65d6343495e87ee0a8b5
 #EXTINF:-1,VIVA
-http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1683136584_4bc97fb070a72617f72057eb70ab8b32a7d92663
+https://server101.online/viva/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=97c464aa8562605bd0df85f70348905662c1fc92-710b5a9433b4bb602b55537359d699df-1687830885-1687823685
 #EXTINF:-1,SBT HD
 http://fadder.eletrinho.shop:2095/live/afazenda9/chunks.m3u8?token=1685206878_de31a38b07d32036d42b777090ce2f1fa6110f1c
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL

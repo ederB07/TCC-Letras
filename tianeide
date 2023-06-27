@@ -6,7 +6,7 @@ https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=167.249.102.65&to
 #EXTINF:-1,BAND
 https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-f0ouXkgX19RZ8-aivBwAxBl30W3pZktX5QYTa2THrIJ)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1,RECORD
-http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1685206878_f278fd22c81e23ed75ba65d6343495e87ee0a8b5
+https://spo4.akamaized.net/hls/live/2029736/spo4/hdntl=exp=1687911716~acl=%2f*~data=hdntl~hmac=4fcd9aa1fa90d45c731ccdacab7286f5d1261b2b703ba3cd30a7269b1494a796/index_720.m3u8
 #EXTINF:-1,VIVA
 https://server101.online/viva/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=97c464aa8562605bd0df85f70348905662c1fc92-710b5a9433b4bb602b55537359d699df-1687830885-1687823685
 #EXTINF:-1,SBT HD

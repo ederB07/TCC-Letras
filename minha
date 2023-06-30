@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8
+http://superblazer.com.br.global.prod.fastly.net/live/globo/play1.m3u8
 #EXTINF:-1,BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1688185232_aa8cc09276b2f1457696d3588f42704c70894861
 #EXTINF:-1,RECORD
@@ -9,7 +9,7 @@ http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1688185232_4db48
 #EXTINF:-1,VIVA
 http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
 #EXTINF:-1,SBT HD
-http://fadder.eletrinho.shop:2095/live/afazenda9/chunks.m3u8
+http://superblazer.com.br.global.prod.fastly.net/live/globo/play1.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
 #EXTINF:-1, National Geographic HD

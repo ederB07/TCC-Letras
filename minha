@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-https://server101.online/globo-rj/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=555c9d6827a4f3a665564fee9ee30591588a3018-dec6294ce63889a54ba71883481575f1-1687830741-1687823541
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1688184846_0e566113c9757522a2599a16e34ab6ea3fe94908
 #EXTINF:-1,BAND
-https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-f0ouXkgX19RZ8-aivBwAxBl30W3pZktX5QYTa2THrIJ)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1688185232_aa8cc09276b2f1457696d3588f42704c70894861
 #EXTINF:-1,RECORD
-http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1685206878_f278fd22c81e23ed75ba65d6343495e87ee0a8b5
+http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1688185232_4db48a82b581f1ecf6ec11bbdf9cd6256fa73501
 #EXTINF:-1,VIVA
-https://server101.online/viva/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=97c464aa8562605bd0df85f70348905662c1fc92-710b5a9433b4bb602b55537359d699df-1687830885-1687823685
+http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
 #EXTINF:-1,SBT HD
 http://fadder.eletrinho.shop:2095/live/afazenda9/chunks.m3u8?token=1685206878_de31a38b07d32036d42b777090ce2f1fa6110f1c
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
@@ -45,7 +45,7 @@ http://fadder.eletrinho.shop:2095/live/cariocatv1/chunks.m3u8?token=1685207974_8
 #EXTINF:-1 , ESPN HD
 https://server101.online/espn/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=befdb47705d1df0bd3141622cefac86dcf38ab10-f5eb580d3e7ae8767d26592d92851f07-1686813867-1686810267
 #EXTINF:-1,PREMIERE 
-http://fadder.eletrinho.shop:2095/live/premiereclubes/chunks.m3u8?token=1682938110_89a1d40d2244565e8a5d8dcf2476e8d6235b4124
+http://fadder.eletrinho.shop:2095/live2/premiereclubes/chunks.m3u8?token=1688185709_15f3fface890585aeab4aafb403bb40d6b6a0d84
 #EXTINF:-1,PREMIERE 
 http://fadder.eletrinho.shop:2095/live/premiere2/chunks.m3u8?token=1685207974_306c2221c4ca2523446ea94c6c64306d60d543b9
 #EXTINF:-1,SporTV HD

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://superblazer.com.br.global.prod.fastly.net/live/globo/play1.m3u8
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1688184846_0e566113c9757522a2599a16e34ab6ea3fe94908
 #EXTINF:-1,BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1688185232_aa8cc09276b2f1457696d3588f42704c70894861
 #EXTINF:-1,RECORD

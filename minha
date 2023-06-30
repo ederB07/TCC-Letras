@@ -12,8 +12,6 @@ http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa
 http://superblazer.com.br.global.prod.fastly.net/live/globo/play1.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
-#EXTINF:-1, Globo HD
-https://ipzeruela.shop/GLOBO-RJ/tracks-v1a1/mono.m3u8
 #EXTINF:-1, History HD
 http://fadder.eletrinho.shop:2095/live/history/chunks.m3u8?token=1686900026_bd95cc300060308fa922c27c424f7dae07049704
 #EXTINF:-1,HBO HD

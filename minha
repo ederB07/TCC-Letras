@@ -43,7 +43,7 @@ http://fadder.eletrinho.shop:2095/live/cariocatv1/chunks.m3u8?token=1685207974_8
 #EXTINF:-1 , ESPN HD
 https://server101.online/espn/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=befdb47705d1df0bd3141622cefac86dcf38ab10-f5eb580d3e7ae8767d26592d92851f07-1686813867-1686810267
 #EXTINF:-1,PREMIERE 
-http://fadder.eletrinho.shop:2095/live2/premiereclubes/chunks.m3u8?token=1688185709_15f3fface890585aeab4aafb403bb40d6b6a0d84
+https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8
 #EXTINF:-1,PREMIERE 
 http://fadder.eletrinho.shop:2095/live/premiere2/chunks.m3u8?token=1685207974_306c2221c4ca2523446ea94c6c64306d60d543b9
 #EXTINF:-1,SporTV HD

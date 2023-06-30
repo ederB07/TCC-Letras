@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1688184846_0e566113c9757522a2599a16e34ab6ea3fe94908
+https://br.embedflix.net/p2p/globorj_720p/chunks.m3u8
 #EXTINF:-1,BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1688185232_aa8cc09276b2f1457696d3588f42704c70894861
 #EXTINF:-1,RECORD
@@ -15,21 +15,25 @@ https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804
 #EXTINF:-1, History HD
 http://fadder.eletrinho.shop:2095/live/history/chunks.m3u8?token=1686900026_bd95cc300060308fa922c27c424f7dae07049704
 #EXTINF:-1,HBO HD
-http://fadder.eletrinho.shop:2095/live/hbo/chunks.m3u8?token=1685207499_8211efa6548fd1e1ca58fd57a5ecd6eada6806b5
+https://br.embedflix.net/p2p/hbo/chunks.m3u8
 #EXTINF:-1,HBO 2 HD
-http://fadder.eletrinho.shop:2095/live/hbo2/chunks.m3u8?token=1685207499_1a3d2b6998545ce0147d2106c74b697d747866fa
+https://br.embedflix.net/p2p/hbo2/chunks.m3u8
 #EXTINF:-1, Telecine Action HD
-http://fadder.eletrinho.shop:2095/live/telecineaction/chunks.m3u8?token=1686898324_4cd60fb4fa00e16c77d41e551f7a21cff8b20812
+https://br.embedflix.net/p2p/tlcaction/chunks.m3u8
 #EXTINF:-1, Telecine Pipoca HD
-http://fadder.eletrinho.shop:2095/live/telecinepipoca/chunks.m3u8?token=1686898449_f20e23847917477a88f7df4bde4bcb5ff3b912ad
+https://br.embedflix.net/p2p/tlcpipoca/chunks.m3u8
 #EXTINF:-1, Telecine Premium HD
-http://fadder.eletrinho.shop:2095/live/telecinepremium/chunks.m3u8?token=1686899886_4427cb9beb41f68b745eef8e6d4900abbf4f21e0
-#EXTINF:-1, Universal HD
-http://fadder.eletrinho.shop:2095/live/universalchannel/chunks.m3u8?token=1686899964_795ae40a8ad08640d1f2a3a606201bf0fc647298
+https://br.embedflix.net/p2p/tlcpremium/chunks.m3u8
+#EXTINF:-1, Telecine Fun HD
+https://br.embedflix.net/p2p/tlcfun/chunks.m3u8
+#EXTINF:-1, Telecine Touch HD
+https://br.embedflix.net/p2p/telecinetouch/chunks.m3u8
+#EXTINF:-1, Telecine Cult HD
+https://br.embedflix.net/p2p/tlccult/chunks.m3u8
 #EXTINF:-1,FX HD
 http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1685207499_aaf380ff4ebada671d6af94b4c4dc40626aad74a
 #EXTINF:-1,TNT HD
-http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1685205269_2b7b67568017403550d3cf4f5cb283b714897be8
+https://br.embedflix.net/p2p/tnt/chunks.m3u8
 #EXTINF:-1,Space HD
 http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
 #EXTINF:-1, Warner HD

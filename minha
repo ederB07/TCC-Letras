@@ -3,17 +3,25 @@
 #EXTINF:-1,GLOBO HD
 https://br.embedflix.net/p2p/globorj_720p/chunks.m3u8
 #EXTINF:-1,BAND
-http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1688185232_aa8cc09276b2f1457696d3588f42704c70894861
+https://br.embedflix.net/p2p/bandsp_720p/chunks.m3u8
 #EXTINF:-1,RECORD
-http://fadder.eletrinho.shop:2095/live/record/chunks.m3u8?token=1688185232_4db48a82b581f1ecf6ec11bbdf9cd6256fa73501
+https://br.embedflix.net/p2p/recordsp/chunks.m3u8
 #EXTINF:-1,VIVA
 http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
 #EXTINF:-1,SBT HD
 https://br.embedflix.net/p2p/sbt_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
+#EXTINF:-1, Animal Planet HD
+https://br.embedflix.net/p2p/animalplanet/chunks.m3u8
 #EXTINF:-1, History HD
-http://fadder.eletrinho.shop:2095/live/history/chunks.m3u8?token=1686900026_bd95cc300060308fa922c27c424f7dae07049704
+https://br.embedflix.net/p2p/history/chunks.m3u8
+#EXTINF:-1, Discovery HD
+https://br.embedflix.net/p2p/discoverych/chunks.m3u8
+#EXTINF:-1, Investigação Discovery HD
+https://br.embedflix.net/p2p/discoveryinvesticacao/chunks.m3u8
+#EXTINF:-1, Comedy Central HD
+https://br.embedflix.net/p2p/comedycentral/chunks.m3u8
 #EXTINF:-1,HBO HD
 https://br.embedflix.net/p2p/hbo/chunks.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -37,25 +45,28 @@ https://br.embedflix.net/p2p/tnt/chunks.m3u8
 #EXTINF:-1,Space HD
 http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
 #EXTINF:-1, Warner HD
-http://fadder.eletrinho.shop:2095/live/warnerchannel/chunks.m3u8?token=1686898150_9f8000c776a79a75fff27434ebd946b679853add
+https://br.embedflix.net/p2p/warnerchannel/chunks.m3u8
 #EXTINF:-1, TNT Series HD
-http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1685208165_ea98c626296758185c57ec12179a54687b5439e7
+https://br.embedflix.net/p2p/tntseries/chunks.m3u8
 #EXTINF:-1,MEGAPIX HD
-http://fadder.eletrinho.shop:2095/live/megapix/chunks.m3u8?token=1685207499_9d8ed5bfab1d31db8e44822a0f012eb714b38e6d
+https://br.embedflix.net/p2p/megapix/chunks.m3u8
 #EXTINF:-1 ,Band Sports HD
-http://fadder.eletrinho.shop:2095/live/cariocatv1/chunks.m3u8?token=1685207974_87628d625d26cd37eb9d4765d53202fff8c49db5
+https://br.embedflix.net/p2p/bandsport_720p/chunks.m3u8
 #EXTINF:-1 , ESPN HD
-https://server101.online/espn/tracks-v1a1/mono.m3u8?remote=167.249.102.65&token=befdb47705d1df0bd3141622cefac86dcf38ab10-f5eb580d3e7ae8767d26592d92851f07-1686813867-1686810267
+https://br.embedflix.net/p2p/spn/chunks.m3u8
+#EXTINF:-1 , ESPN 2 HD
+https://br.embedflix.net/p2p/spn2/chunks.m3u8
 #EXTINF:-1,PREMIERE 
 https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8
 #EXTINF:-1,PREMIERE 
-http://fadder.eletrinho.shop:2095/live/premiere2/chunks.m3u8?token=1685207974_306c2221c4ca2523446ea94c6c64306d60d543b9
+https://br.embedflix.net/p2p/premier2/chunks.m3u8
 #EXTINF:-1,SporTV HD
-http://fadder.eletrinho.shop:2095/live/sportv/chunks.m3u8?token=1685207974_445a75f2374efa1642d5960496cffba2074b4961
+https://br.embedflix.net/p2p/sportv_720p/chunks.m3u8
 #EXTINF:-1,SporTV 2 HD
-http://fadder.eletrinho.shop:2095/live/sportv2/chunks.m3u8?token=1685207974_a4755488b85296e0d08d4ccbda5097ca7bb25438
+https://br.embedflix.net/p2p/sportv2_720p/chunks.m3u8
+#EXTINF:-1,SporTV 3 HD
+https://br.embedflix.net/p2p/sportv3_720p/chunks.m3u8
 #EXTINF:-1,Combate HD
-http://fadder.eletrinho.shop:2095/live/combate/chunks.m3u8?token=1682937828_77a30db753a1aa7fe8c4deb869a52ed5efd65822
-#EXTINF:-1, UFC
-http://fadder.eletrinho.shop:2095/live/afazenda1/chunks.m3u8?token=1682937828_8ef033029b618a51bb02bd4ce18d5e0bd515a6c2
-
+https://br.embedflix.net/p2p/combate/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png", HBO Max
+https://br.embedflix.net/p2p/hbomax/chunks.m3u8

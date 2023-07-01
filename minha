@@ -10,6 +10,8 @@ https://br.embedflix.net/p2p/recordsp/chunks.m3u8
 http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
 #EXTINF:-1,SBT HD
 https://br.embedflix.net/p2p/sbt_720p/chunks.m3u8
+#EXTINF:-1,RedeTV HD
+https://br.embedflix.net/p2p/redetv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
 #EXTINF:-1, CNN Brasil
@@ -30,8 +32,10 @@ https://br.embedflix.net/p2p/hbo/chunks.m3u8
 https://br.embedflix.net/p2p/hbo2/chunks.m3u8
 #EXTINF:-1,HBO Family HD
 https://br.embedflix.net/p2p/hbofamily/chunks.m3u8
-#EXTINF:-1,HBO Xtreme HD
+#EXTINF:-1,HBO Xtreme 
 https://br.embedflix.net/p2p/hboextreme/chunks.m3u8
+#EXTINF:-1,HBO Plus
+https://br.embedflix.net/p2p/hboplus/chunks.m3u8
 #EXTINF:-1, Telecine Action HD
 https://br.embedflix.net/p2p/tlcaction/chunks.m3u8
 #EXTINF:-1, Telecine Pipoca HD

@@ -12,6 +12,8 @@ http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa
 https://br.embedflix.net/p2p/sbt_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
+#EXTINF:-1, CNN Brasil
+https://br.embedflix.net/p2p/cnnbr/chunks.m3u8 
 #EXTINF:-1, Animal Planet HD
 https://br.embedflix.net/p2p/animalplanet/chunks.m3u8
 #EXTINF:-1, History HD
@@ -26,6 +28,10 @@ https://br.embedflix.net/p2p/comedycentral/chunks.m3u8
 https://br.embedflix.net/p2p/hbo/chunks.m3u8
 #EXTINF:-1,HBO 2 HD
 https://br.embedflix.net/p2p/hbo2/chunks.m3u8
+#EXTINF:-1,HBO Family HD
+https://br.embedflix.net/p2p/hbofamily/chunks.m3u8
+#EXTINF:-1,HBO Xtreme HD
+https://br.embedflix.net/p2p/hboextreme/chunks.m3u8
 #EXTINF:-1, Telecine Action HD
 https://br.embedflix.net/p2p/tlcaction/chunks.m3u8
 #EXTINF:-1, Telecine Pipoca HD
@@ -36,7 +42,7 @@ https://br.embedflix.net/p2p/tlcpremium/chunks.m3u8
 https://br.embedflix.net/p2p/tlcfun/chunks.m3u8
 #EXTINF:-1, Telecine Touch HD
 https://br.embedflix.net/p2p/telecinetouch/chunks.m3u8
-#EXTINF:-1, Telecine Cult HD
+#EXTINF:-1, Telecine Cult 
 https://br.embedflix.net/p2p/tlccult/chunks.m3u8
 #EXTINF:-1,FX HD
 http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1685207499_aaf380ff4ebada671d6af94b4c4dc40626aad74a
@@ -64,7 +70,7 @@ https://br.embedflix.net/p2p/premier2/chunks.m3u8
 https://br.embedflix.net/p2p/sportv_720p/chunks.m3u8
 #EXTINF:-1,SporTV 2 HD
 https://br.embedflix.net/p2p/sportv2_720p/chunks.m3u8
-#EXTINF:-1,SporTV 3 HD
+#EXTINF:-1,SporTV 3
 https://br.embedflix.net/p2p/sportv3_720p/chunks.m3u8
 #EXTINF:-1,Combate HD
 https://br.embedflix.net/p2p/combate/chunks.m3u8

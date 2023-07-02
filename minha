@@ -1,86 +1,86 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-https://br.embedflix.net/p2p/globorj_720p/chunks.m3u8
+https://br.embedflix.net/p2p/globorj_720p/playlist.m3u8
 #EXTINF:-1,BAND
-https://br.embedflix.net/p2p/bandsp_720p/chunks.m3u8
+https://br.embedflix.net/p2p/bandsp_720p/playlist.m3u8
 #EXTINF:-1,RECORD
-https://br.embedflix.net/p2p/recordsp/chunks.m3u8
+https://br.embedflix.net/p2p/recordsp/playlist.m3u8
 #EXTINF:-1,VIVA
-http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
+http://fadder.eletrinho.shop:2095/live/viva/playlist.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
 #EXTINF:-1,SBT HD
-https://br.embedflix.net/p2p/sbt_720p/chunks.m3u8
+https://br.embedflix.net/p2p/sbt_720p/playlist.m3u8
 #EXTINF:-1,RedeTV HD
-https://br.embedflix.net/p2p/redetv/chunks.m3u8
+https://br.embedflix.net/p2p/redetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
 #EXTINF:-1, CNN Brasil
-https://br.embedflix.net/p2p/cnnbr/chunks.m3u8 
+https://br.embedflix.net/p2p/cnnbr/playlist.m3u8 
 #EXTINF:-1, Animal Planet HD
-https://br.embedflix.net/p2p/animalplanet/chunks.m3u8
+https://br.embedflix.net/p2p/animalplanet/playlist.m3u8
 #EXTINF:-1, History HD
-https://br.embedflix.net/p2p/history/chunks.m3u8
+https://br.embedflix.net/p2p/history/playlist.m3u8
 #EXTINF:-1, Discovery HD
-https://br.embedflix.net/p2p/discoverych/chunks.m3u8
+https://br.embedflix.net/p2p/discoverych/playlist.m3u8
 #EXTINF:-1, Investigação Discovery HD
-https://br.embedflix.net/p2p/discoveryinvesticacao/chunks.m3u8
+https://br.embedflix.net/p2p/discoveryinvesticacao/playlist.m3u8
 #EXTINF:-1, Comedy Central HD
-https://br.embedflix.net/p2p/comedycentral/chunks.m3u8
+https://br.embedflix.net/p2p/comedycentral/playlist.m3u8
 #EXTINF:-1,HBO HD
-https://br.embedflix.net/p2p/hbo/chunks.m3u8
+https://br.embedflix.net/p2p/hbo/playlist.m3u8
 #EXTINF:-1,HBO 2 HD
-https://br.embedflix.net/p2p/hbo2/chunks.m3u8
+https://br.embedflix.net/p2p/hbo2/playlist.m3u8
 #EXTINF:-1,HBO Family HD
-https://br.embedflix.net/p2p/hbofamily/chunks.m3u8
+https://br.embedflix.net/p2p/hbofamily/playlist.m3u8
 #EXTINF:-1,HBO Xtreme 
-https://br.embedflix.net/p2p/hboextreme/chunks.m3u8
+https://br.embedflix.net/p2p/hboextreme/playlist.m3u8
 #EXTINF:-1,HBO Plus
-https://br.embedflix.net/p2p/hboplus/chunks.m3u8
+https://br.embedflix.net/p2p/hboplus/playlist.m3u8
 #EXTINF:-1,HBO Pop
-https://br.embedflix.net/p2p/hbopop/chunks.m3u8
+https://br.embedflix.net/p2p/hbopop/playlist.m3u8
 #EXTINF:-1, Telecine Action HD
-https://br.embedflix.net/p2p/tlcaction/chunks.m3u8
+https://br.embedflix.net/p2p/tlcaction/playlist.m3u8
 #EXTINF:-1, Telecine Pipoca HD
-https://br.embedflix.net/p2p/tlcpipoca/chunks.m3u8
+https://br.embedflix.net/p2p/tlcpipoca/playlist.m3u8
 #EXTINF:-1, Telecine Premium HD
-https://br.embedflix.net/p2p/tlcpremium/chunks.m3u8
+https://br.embedflix.net/p2p/tlcpremium/playlist.m3u8
 #EXTINF:-1, Telecine Fun HD
-https://br.embedflix.net/p2p/tlcfun/chunks.m3u8
+https://br.embedflix.net/p2p/tlcfun/playlist.m3u8
 #EXTINF:-1, Telecine Touch HD
-https://br.embedflix.net/p2p/telecinetouch/chunks.m3u8
+https://br.embedflix.net/p2p/telecinetouch/playlist.m3u8
 #EXTINF:-1, Telecine Cult 
-https://br.embedflix.net/p2p/tlccult/chunks.m3u8
+https://br.embedflix.net/p2p/tlccult/playlist.m3u8
 #EXTINF:-1,FX HD
-http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1685207499_aaf380ff4ebada671d6af94b4c4dc40626aad74a
+http://fadder.eletrinho.shop:2095/live/fx/playlist.m3u8?token=1685207499_aaf380ff4ebada671d6af94b4c4dc40626aad74a
 #EXTINF:-1,TNT HD
-https://br.embedflix.net/p2p/tnt/chunks.m3u8
+https://br.embedflix.net/p2p/tnt/playlist.m3u8
 #EXTINF:-1,Space HD
-http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
+http://fadder.eletrinho.shop:2095/live/space/playlist.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
 #EXTINF:-1, Warner HD
-https://br.embedflix.net/p2p/warnerchannel/chunks.m3u8
+https://br.embedflix.net/p2p/warnerchannel/playlist.m3u8
 #EXTINF:-1, TNT Series HD
-https://br.embedflix.net/p2p/tntseries/chunks.m3u8
+https://br.embedflix.net/p2p/tntseries/playlist.m3u8
 #EXTINF:-1,MEGAPIX HD
-https://br.embedflix.net/p2p/megapix/chunks.m3u8
+https://br.embedflix.net/p2p/megapix/playlist.m3u8
 #EXTINF:-1 ,Band Sports HD
-https://br.embedflix.net/p2p/bandsport_720p/chunks.m3u8
+https://br.embedflix.net/p2p/bandsport_720p/playlist.m3u8
 #EXTINF:-1 , ESPN HD
-https://br.embedflix.net/p2p/spn/chunks.m3u8
+https://br.embedflix.net/p2p/spn/playlist.m3u8
 #EXTINF:-1 , ESPN 2 HD
-https://br.embedflix.net/p2p/spn2/chunks.m3u8
+https://br.embedflix.net/p2p/spn2/playlist.m3u8
 #EXTINF:-1,PREMIERE 
-https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8
+https://br.embedflix.net/p2p/prfc1_720p/playlist.m3u8
 #EXTINF:-1,PREMIERE 
-https://br.embedflix.net/p2p/premier2/chunks.m3u8
+https://br.embedflix.net/p2p/premier2/playlist.m3u8
 #EXTINF:-1,SporTV HD
-https://br.embedflix.net/p2p/sportv_720p/chunks.m3u8
+https://br.embedflix.net/p2p/sportv_720p/playlist.m3u8
 #EXTINF:-1,SporTV 2 HD
-https://br.embedflix.net/p2p/sportv2_720p/chunks.m3u8
+https://br.embedflix.net/p2p/sportv2_720p/playlist.m3u8
 #EXTINF:-1,SporTV 3
-https://br.embedflix.net/p2p/sportv3_720p/chunks.m3u8
+https://br.embedflix.net/p2p/sportv3_720p/playlist.m3u8
 #EXTINF:-1,Combate HD
-https://br.embedflix.net/p2p/combate/chunks.m3u8
+https://br.embedflix.net/p2p/combate/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png", HBO Max
-https://br.embedflix.net/p2p/hbomax/chunks.m3u8
+https://br.embedflix.net/p2p/hbomax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ", Estádio TNT Sports
-https://br.embedflix.net/p2p/tntsport/chunks.m3u8
+https://br.embedflix.net/p2p/tntsport/playlist.m3u8

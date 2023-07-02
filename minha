@@ -3,14 +3,13 @@
 #EXTINF:-1,GLOBO HD
 https://ipzeruela.shop/GLOBO-RJ/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BAND
-https://br.embedflix.net/p2p/paulista2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgNjowNDowOSBBTSZoYXNoX3ZhbHVlPWlTZS82NHZLMUFUSFpiNStBcTlDNnc9PSZ2YWxpZG1pbnV0ZXM9OTA=#EXTINF:-1,RECORD
-
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1,VIVA
 http://fadder.eletrinho.shop:2095/live/viva/playlist.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3
 #EXTINF:-1,SBT HD
-https://br.embedflix.net/p2p/sbt_720p/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,RedeTV HD
-https://br.embedflix.net/p2p/redetv/playlist.m3u8
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",TV SOL
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w58804968.m3u8
 #EXTINF:-1, CNN Brasil

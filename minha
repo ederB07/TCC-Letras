@@ -3,8 +3,7 @@
 #EXTINF:-1,GLOBO HD
 https://ipzeruela.shop/GLOBO-RJ/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BAND
-https://br.embedflix.net/p2p/bandsp_720p/playlist.m3u8
-#EXTINF:-1,RECORD
+https://br.embedflix.net/p2p/paulista2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjMgNjowNDowOSBBTSZoYXNoX3ZhbHVlPWlTZS82NHZLMUFUSFpiNStBcTlDNnc9PSZ2YWxpZG1pbnV0ZXM9OTA=#EXTINF:-1,RECORD
 https://br.embedflix.net/p2p/recordsp/playlist.m3u8
 #EXTINF:-1,VIVA
 http://fadder.eletrinho.shop:2095/live/viva/playlist.m3u8?token=1688184966_80263aa50330cff0f57675fed48f5f8bccc131d3

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-https://ipzeruela.shop/GLOBO-RJ/tracks-v1a1/mono.m3u8
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1689277261_6bf31b8d310a98cc66f75671b8deebe787b43271
 #EXTINF:-1,BAND
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1,VIVA
@@ -67,7 +67,7 @@ https://br.embedflix.net/p2p/spn/playlist.m3u8
 #EXTINF:-1 , ESPN 2 HD
 https://br.embedflix.net/p2p/spn2/playlist.m3u8
 #EXTINF:-1,PREMIERE 
-https://br.embedflix.net/p2p/prfc1_720p/playlist.m3u8
+http://fadder.eletrinho.shop:2095/live2/premiereclubes/chunks.m3u8?token=1689277428_b2969071a5d26135237475c0a0ab798b5a5270bd
 #EXTINF:-1,PREMIERE 
 https://br.embedflix.net/p2p/premier2/playlist.m3u8
 #EXTINF:-1,SporTV HD

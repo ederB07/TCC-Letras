@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1689277261_6bf31b8d310a98cc66f75671b8deebe787b43271
+https://br.embedflix.net/p2p/globorj_720p/chunks.m3u8?nimblesessionid=22304998&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDQ6MzU6NTYgQU0maGFzaF92YWx1ZT1FNDI0dG1vMXNRV2tnazhPb2Zyc1RnPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1,BAND
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1,VIVA

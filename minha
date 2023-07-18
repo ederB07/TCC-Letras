@@ -1,11 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-https://br.embedflix.net/p2p/globorj_720p/chunks.m3u8?nimblesessionid=22304998&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIzIDQ6MzU6NTYgQU0maGFzaF92YWx1ZT1FNDI0dG1vMXNRV2tnazhPb2Zyc1RnPT0mdmFsaWRtaW51dGVzPTkw
+http://tv.nousiptv.com:8080/Anibaluru19/Uru1950ani/43624
 #EXTINF:-1,BAND
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+http://conexaoonline.top:80/renato1782/aadd1782w2/286154
+#EXTINF:-1,RECORD
+http://tv.nousiptv.com:8080/Anibaluru19/Uru1950ani/44841
 #EXTINF:-1,VIVA
-http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1689278879_7b6a25a6b1fcb145347d293f0ba7443ff91f751c
+http://conexaoonline.top:80/renato1782/aadd1782w2/124
 #EXTINF:-1,SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,RedeTV HD
@@ -19,7 +21,7 @@ https://br.embedflix.net/p2p/animalplanet/playlist.m3u8
 #EXTINF:-1, History HD
 https://br.embedflix.net/p2p/history/playlist.m3u8
 #EXTINF:-1, Discovery HD
-http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8?token=1685205163_7012f42dd28501371f1444450594c45a114e6b4b
+https://br.embedflix.net/p2p/discoverych/playlist.m3u8
 #EXTINF:-1, Investigação Discovery HD
 https://br.embedflix.net/p2p/discoveryinvesticacao/playlist.m3u8
 #EXTINF:-1, Comedy Central HD
@@ -53,7 +55,7 @@ http://fadder.eletrinho.shop:2095/live/fx/playlist.m3u8?token=1685207499_aaf380f
 #EXTINF:-1,TNT HD
 https://br.embedflix.net/p2p/tnt/playlist.m3u8
 #EXTINF:-1,Space HD
-http://fadder.eletrinho.shop:2095/live/space/playlist.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
+http://fadder.eletrinho.shop:2095/live/space/chunks.m3u8?token=1685207902_9569d9784ebb402f049fb4e3ff7bea6e225eda4f
 #EXTINF:-1, Warner HD
 https://br.embedflix.net/p2p/warnerchannel/playlist.m3u8
 #EXTINF:-1, TNT Series HD
@@ -67,7 +69,7 @@ https://br.embedflix.net/p2p/spn/playlist.m3u8
 #EXTINF:-1 , ESPN 2 HD
 https://br.embedflix.net/p2p/spn2/playlist.m3u8
 #EXTINF:-1,PREMIERE 
-http://fadder.eletrinho.shop:2095/live2/premiereclubes/chunks.m3u8?token=1689277428_b2969071a5d26135237475c0a0ab798b5a5270bd
+https://br.embedflix.net/p2p/prfc1_720p/playlist.m3u8
 #EXTINF:-1,PREMIERE 
 https://br.embedflix.net/p2p/premier2/playlist.m3u8
 #EXTINF:-1,SporTV HD
@@ -77,7 +79,7 @@ https://br.embedflix.net/p2p/sportv2_720p/playlist.m3u8
 #EXTINF:-1,SporTV 3
 https://br.embedflix.net/p2p/sportv3_720p/playlist.m3u8
 #EXTINF:-1,Combate HD
-https://ddy1.cdnhks.lol/ddy1/premium89/tracks-v1a1/mono.m3u8
+https://br.embedflix.net/p2p/combate/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png", HBO Max
 https://br.embedflix.net/p2p/hbomax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ", Estádio TNT Sports

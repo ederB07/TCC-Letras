@@ -1,11 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-hhttps://tvembed.net/br/globo-sp/tracks-v1a1/mono.m3u8?remote=131.0.94.76&token=72728ee2c80c20f981e39a55ebbc160bf287bb18-6ccc90d830e3c2c44c6e41925d8cafe1-1698641644-1698634444
-EXTINF:-1,BAND
+https://live-as-10-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk4NzU0MDc5LCJpYXQiOjE2OTg2Njc2NzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZTRjZGU5ZGEtNGQ2YS00NjljLWEzMzktNWVmZmY4Y2FjMjhhIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tY3BnL3BsYXlsaXN0Lm0zdTgifQ.t0MkbBJk7qIAEznhu_n4pAtxVjNv45Q17Wf-wzqU_V3B-0OsE4sOONZiYdEMsGGrRiLnjEXstovDuEYm6YnplgG33i0T1j0bZu0X3CjoVZz-mzi3N2pciHenxhk3effJbVRJg4iRq7XbejOGNnqhdm92GreJa8Cb5NkhRmsPlzW_GnBOLwvQzDbZvAj48p6HfWI9baXILjcwwy5_KileNX2OKwHwtz1VbLwlmBrgOh1JGKP1TXa30MfyktYI6DcUbtTZzVF1e2QFFaC7zzyHDzSEOVtjnvwO_JRopj1sJFTDkqBT3Lso4IT31p6dy2U6QJ1LNZ6dujbDYJnjn477yA/nu/f(i=2)/globo-cpg/globo-cpg-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1,BAND
 http://conexaoonline.top:80/renato1782/aadd1782w2/286154
+
 #EXTINF:-1,RECORD
 http://main.xplus2-main.xyz:2082/Tourobox2-gDMDdUTZeQ/WMk7iDnR8a/529
+
 #EXTINF:-1,VIVA
 https://tvembed.net/viva/tracks-v1a1/mono.m3u8?remote=131.0.94.76&token=77a5602f9ad92dc1fee4c5e250b4df37825d9e03-f4d4eade1524dcc3a0a1f6ab98c48ff5-1698641459-1698634259
 #EXTINF:-1,SBT HD

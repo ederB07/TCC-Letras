@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO HD
-http://main.xplus2-main.xyz:2082/Tourobox2-gDMDdUTZeQ/WMk7iDnR8a/849
-#EXTINF:-1,BAND
+hhttps://tvembed.net/br/globo-sp/tracks-v1a1/mono.m3u8?remote=131.0.94.76&token=72728ee2c80c20f981e39a55ebbc160bf287bb18-6ccc90d830e3c2c44c6e41925d8cafe1-1698641644-1698634444
+EXTINF:-1,BAND
 http://conexaoonline.top:80/renato1782/aadd1782w2/286154
 #EXTINF:-1,RECORD
 http://main.xplus2-main.xyz:2082/Tourobox2-gDMDdUTZeQ/WMk7iDnR8a/529
 #EXTINF:-1,VIVA
-http://golplay.top:8080/291679447777484074/4271679447777484/10771
+https://tvembed.net/viva/tracks-v1a1/mono.m3u8?remote=131.0.94.76&token=77a5602f9ad92dc1fee4c5e250b4df37825d9e03-f4d4eade1524dcc3a0a1f6ab98c48ff5-1698641459-1698634259
 #EXTINF:-1,SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,RedeTV HD
